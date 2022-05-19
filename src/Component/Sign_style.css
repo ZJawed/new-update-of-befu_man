@@ -1,0 +1,27 @@
+
+
+*{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+
+.logo-image{
+    position: relative;
+    max-width: auto;
+    left: 35%;
+    transform: translate(-1%, -1% );
+
+}
+
+.Main-img{
+    position: relative;
+  left: 25%;
+    
+}
+
+.input{
+   
+    margin: 20px;
+}
